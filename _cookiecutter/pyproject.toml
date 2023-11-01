@@ -15,6 +15,7 @@ django-filter = "^23.3"
 coverage = "^7.3.2"
 python-jose = "^3.3.0"
 PyJWT = "^2.8.0"
+dynaconf = "^3.2.4"
 
 
 [build-system]
